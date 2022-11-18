@@ -365,11 +365,8 @@ form {
         }
     }
     .box-contact{
-        margin: 20px auto;
+        margin: 1px;
     }
-}
-
-@media(max-width:340px){
     .popup{
         align-items: center;
         text-align: center;
@@ -377,7 +374,7 @@ form {
         .popup-title{
             text-align: center;
             width: 100%;
-            font-size: 15px;
+            font-size: 14px;
     
             h1{
                 width: 100%;
@@ -385,7 +382,6 @@ form {
         }    
     }
 }
-
 
 @media(max-width:340px){
 
