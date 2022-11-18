@@ -365,21 +365,26 @@ form {
         }
     }
     .box-contact{
-        margin: 1px;
+        margin: -10px;
     }
     .popup{
         align-items: center;
         text-align: center;
     
         .popup-title{
+            margin-bottom: -30px;
             text-align: center;
             width: 100%;
-            font-size: 14px;
+            font-size: 10px;
     
             h1{
                 width: 100%;
             }
         }    
+    }
+    .popup .content .close-btn{
+        width: 20px;
+        top: 23px;
     }
 }
 
